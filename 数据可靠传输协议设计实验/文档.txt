@@ -1,0 +1,3 @@
+开发平台：Visual Studio 2022
+
+使用Visual Studio 2022编译。将源码加入项目中，同时更改stdafx.h中netsimlib.lib库位置和StopWait.cpp中input.txt位置为他们在编译机中的位置，使用Debug模式编译即可。

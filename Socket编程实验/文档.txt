@@ -1,0 +1,3 @@
+开发平台：Visual Studio 2022
+
+使用Visual Studio 2022进行编译。将Server.cpp作为项目源文件，在项目属性->C/C++->预处理器->预处理器定义中添加_WINSOCK_DEPRECATED_NO_WARNINGS与_CRT_SECURE_NO_WARNINGS后编译即可。
